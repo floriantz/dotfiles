@@ -3,7 +3,7 @@ export ZSH="/Users/flow/.oh-my-zsh"
 
 ZSH_THEME="robbyrussell"
 
-plugins=(git cargo docker dotenv nvm npx ripgrep terraform yarn)
+plugins=(git cargo docker dotenv nvm ripgrep terraform yarn)
 
 source $ZSH/oh-my-zsh.sh
 
