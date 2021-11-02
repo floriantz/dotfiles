@@ -1,3 +1,6 @@
+# Source the additional config in the .zsh folder
+for config (~/.zsh/*.zsh) source $config
+
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/flow/.oh-my-zsh"
 
