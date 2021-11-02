@@ -20,6 +20,8 @@ brew "terraform@0.12"
 brew "yarn"
 brew "zsh-completions"
 brew "zsh"
+
+cask "chromium"
 cask "discord"
 cask "docker"
 cask "firefox"
