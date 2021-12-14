@@ -7,13 +7,13 @@ Just a basic dotfiles repository
 Install Homebrew then run:
 
 ```sh
-.~/dev/${profile_name}/dotfiles/setup.sh
+.~/Development/floriantz/dotfiles/setup.sh
 ```
 
 Link dotfiles:
 
 ```sh
-rcup -d ~/dev/${profile_name}/dotfiles
+rcup -d ~/dev/floriantz/dotfiles
 ```
 
 
